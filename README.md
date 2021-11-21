@@ -14,16 +14,6 @@ clean code from hw1
 │   ├── code_py
 │   │   ├── KFold_tuning.py
 │   │   ├── __init__.py
-│   │   ├── __pycache__
-│   │   │   ├── KFold_tuning.cpython-37.pyc
-│   │   │   ├── __init__.cpython-37.pyc
-│   │   │   ├── ex3.cpython-37.pyc
-│   │   │   ├── ex11.cpython-37.pyc
-│   │   │   ├── ex12.cpython-37.pyc
-│   │   │   ├── ex21.cpython-37.pyc
-│   │   │   ├── ex22.cpython-37.pyc
-│   │   │   ├── get_dataset.cpython-37.pyc
-│   │   │   └── trunc_normal_sampling.cpython-37.pyc
 │   │   ├── ex3.py
 │   │   ├── ex11.py
 │   │   ├── ex12.py
@@ -45,5 +35,5 @@ clean code from hw1
 ├── document.pdf
 └── fig_assignment1.png
 
-4 directories, 38 files
+3 directories, 29 files
 ```
