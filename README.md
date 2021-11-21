@@ -1,7 +1,7 @@
 # HW1
 clean code from hw1 
 
-
+''' bash
 ├── DATA.csv
 ├── HW1_code
 │   ├── Run_32_ATS.py
@@ -46,3 +46,4 @@ clean code from hw1
 └── fig_assignment1.png
 
 4 directories, 38 files
+'''
